@@ -1,3 +1,3 @@
 # URL:
 
-**destify.netlify.app**
+destify.netlify.app
